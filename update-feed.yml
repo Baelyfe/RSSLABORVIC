@@ -1,0 +1,40 @@
+name: Update RSS feed
+
+on:
+  schedule:
+    # Every 3 hours. GitHub may delay this by a few minutes at busy times.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate feed.xml
+        run: python scrape_feed.py
+
+      - name: Commit and push feed.xml if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          if git diff --staged --quiet; then
+            echo "No changes to feed.xml"
+          else
+            git commit -m "Update feed.xml"
+            git push
+          fi
