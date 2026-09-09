@@ -74,6 +74,40 @@ def parse_date(text: str):
         return None
 
 
+def leaf_text_blocks(root):
+    """Text of every 'leaf' div/p under root - i.e. one that has no nested
+    div/p of its own - so we don't collect the same text twice from a
+    wrapper and its child."""
+    blocks = []
+    for tag in root.find_all(["div", "p"]):
+        if tag.find(["div", "p"]):
+            continue
+        text = tag.get_text(" ", strip=True)
+        if text:
+            blocks.append(text)
+    return blocks
+
+
+def extract_summary(candidate_anchors, card, title):
+    """Best-effort summary/excerpt text for an item. Not every item on the
+    page has one (per the site), so this can legitimately return None."""
+    candidates = []
+    for a in candidate_anchors:
+        candidates.extend(leaf_text_blocks(a))
+    if not candidates:
+        candidates = leaf_text_blocks(card)
+
+    candidates = [c for c in candidates if c and c != title]
+    # Drop anything that's really just the date or a short category badge
+    # (e.g. "Media Release") rather than an actual excerpt.
+    candidates = [c for c in candidates if not (len(c) < 40 and DATE_RE.search(c))]
+    candidates = [c for c in candidates if len(c) >= 20]
+
+    if not candidates:
+        return None
+    return max(candidates, key=len)
+
+
 def find_card(anchor):
     """Climb up from an <a> tag to find its containing "card" element,
     i.e. the smallest ancestor whose text also contains a date. Falls back
@@ -143,12 +177,14 @@ def extract_items(html: str):
         card = find_card(candidate_anchors[0])
         card_text = card.get_text(" ", strip=True)
         pub_date = parse_date(card_text)
+        summary = extract_summary(candidate_anchors, card, title)
 
         items.append(
             {
                 "title": title.strip(),
                 "link": link,
                 "pub_date": pub_date,
+                "summary": summary,
             }
         )
 
@@ -177,6 +213,8 @@ def build_rss(items) -> str:
         parts.append("<item>")
         parts.append(f"<title>{escape(item['title'])}</title>")
         parts.append(f"<link>{escape(item['link'])}</link>")
+        if item.get("summary"):
+            parts.append(f"<description>{escape(item['summary'])}</description>")
         parts.append(f'<guid isPermaLink="false">{guid}</guid>')
         pub_date = item["pub_date"] or now
         parts.append(f"<pubDate>{format_datetime(pub_date)}</pubDate>")
