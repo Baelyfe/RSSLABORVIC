@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Thu, 08 Oct 2026 18:42:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 01:06:08 +0000</lastBuildDate>
 <item>
 <title>Only Labor Will Deliver Free Dental Care For All Victorians</title>
 <link>https://www.viclabor.org.au/news/only-labor-will-deliver-free-dental-care-for-all-victorians</link>
@@ -19,6 +19,13 @@
 <description>A re-elected Carroll Labor Government will deliver a comprehensive plan to improve the quality of our roads.</description>
 <guid isPermaLink="false">ff621885b2b772d5944aef84d6aa1aed6bdfc049</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Delivering a Bigger Langwarrin Men's Shed</title>
+<link>https://www.viclabor.org.au/news/delivering-a-bigger-langwarrin-mens-shed</link>
+<description>A re-elected Carroll Labor Government will invest $100,000 to extend the Langwarrin Men’s Shed.</description>
+<guid isPermaLink="false">2c6f958b70649066ec7c75940bb32adb1e78acbb</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>150 New Fire Trucks for the Frontline to Keep Us Safe</title>
@@ -40,6 +47,13 @@
 <description>A re-elected Carroll Labor Government will invest $4 million to deliver stage 2 of the Spotswood Primary School masterplan.</description>
 <guid isPermaLink="false">c491646cc896c6b245564a422e68323c29017ff2</guid>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Delivering a Better Sunshine North Primary School</title>
+<link>https://www.viclabor.org.au/news/delivering-a-better-sunshine-north-primary-school</link>
+<description>A re-elected Carroll Labor Government will invest $1.9 million to begin upgrades at Sunshine North Primary School.</description>
+<guid isPermaLink="false">a11ea6fa5dd9b6bf21e73c0103e97696ebcbccf5</guid>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Delivering Upgrades at Somerville Recreation Reserve</title>
@@ -201,20 +215,6 @@
 <description>A re-elected Carroll Labor Government will implement stop and search powers.</description>
 <guid isPermaLink="false">cb2f4c54a9f02122accecf5c8eb893cbcc2538c9</guid>
 <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Only Labor Has a Real Plan to Recruit a Full Police Force</title>
-<link>https://www.viclabor.org.au/news/only-labor-has-a-real-plan-to-recruit-a-full-police-force</link>
-<description>A re-elected Carroll Labor Government will deliver with a comprehensive plan for 1,500 more police.</description>
-<guid isPermaLink="false">7e1a456c2f5c7e50ca0e0a1b8220240768980a9e</guid>
-<pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Better, Safer Local Roads for Hoppers Crossing</title>
-<link>https://www.viclabor.org.au/news/better-safer-local-roads-for-hoppers-crossing</link>
-<description>A re-elected Carroll Labor Government will upgrade the Hogans Road and Derrimut Road intersection so locals in Hoppers Crossing and Tarneit can get around faster.</description>
-<guid isPermaLink="false">82c62afc873f43f325bf7d3738003cab4ef9d8bf</guid>
-<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
