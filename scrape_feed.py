@@ -35,7 +35,7 @@ from bs4 import BeautifulSoup
 SITE = "https://www.viclabor.org.au"
 NEWS_URL = f"{SITE}/news"
 FEED_PATH = "feed.xml"
-MAX_ITEMS = 30
+MAX_ITEMS = 200
 
 ARTICLE_HREF_RE = re.compile(r"^/news/[a-z0-9][a-z0-9-]*/?$", re.IGNORECASE)
 DATE_RE = re.compile(
