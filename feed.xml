@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Sun, 11 Oct 2026 12:29:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 19:25:52 +0000</lastBuildDate>
 <item>
 <title>Only Labor Will Deliver Free Dental Care For All Victorians</title>
 <link>https://www.viclabor.org.au/news/only-labor-will-deliver-free-dental-care-for-all-victorians</link>
@@ -19,6 +19,13 @@
 <description>A re-elected Carroll Labor Government will deliver a comprehensive plan to improve the quality of our roads.</description>
 <guid isPermaLink="false">ff621885b2b772d5944aef84d6aa1aed6bdfc049</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor Will Deliver a Free Dental Clinic in Ballarat</title>
+<link>https://www.viclabor.org.au/news/labor-will-deliver-a-free-dental-clinic-in-ballarat</link>
+<description>A re-elected Carroll Labor Government will open a free dental clinic in Ballarat.</description>
+<guid isPermaLink="false">658e050343c9df1b5614e490ffa4f85ff9b5ef4b</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Labor Will Keep Waste to Energy Away From Homes</title>
@@ -208,13 +215,6 @@
 <description>A re-elected Carroll Labor Government will protect local live music.</description>
 <guid isPermaLink="false">6091e6ced27abc9f6c31c843d5f1a83a0495829b</guid>
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>More Bands on the Road, More Crowds in the Town</title>
-<link>https://www.viclabor.org.au/news/more-bands-on-the-road-more-crowds-in-the-town</link>
-<description>A re-elected Carroll Labor Government will boost regional breweries, protect regional festivals and back regional live music.</description>
-<guid isPermaLink="false">ae3e0f8dd1893e9169027e8e2d60d0fb135325cc</guid>
-<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
