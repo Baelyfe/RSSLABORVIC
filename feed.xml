@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Mon, 26 Oct 2026 20:22:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 00:18:23 +0000</lastBuildDate>
 <item>
 <title>Only Labor Will Deliver Free Dental Care For All Victorians</title>
 <link>https://www.viclabor.org.au/news/only-labor-will-deliver-free-dental-care-for-all-victorians</link>
@@ -21,10 +21,24 @@
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Labor Will Keep Health Workers Safe At Work</title>
+<link>https://www.viclabor.org.au/news/labor-will-keep-health-workers-safe-at-work</link>
+<description>A re-elected Carroll Labor Government will crack down on violent offenders and deliver $30 million for lighting, CCTV and other practical ways to make hospitals safer places to work.</description>
+<guid isPermaLink="false">7092c68af34fef5a37b3f29f645a391390ec74a7</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Secure, Local Jobs for Public School Cleaners</title>
 <link>https://www.viclabor.org.au/news/secure-local-jobs-for-public-school-cleaners</link>
 <description>A re-elected Carroll Labor Government will bring public school cleaning services in-house.</description>
 <guid isPermaLink="false">8901caeb809cbea1cbc4bd9056fe8c75e2b9914a</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor Will Upgrade the Mernda Community Hospital</title>
+<link>https://www.viclabor.org.au/news/labor-will-upgrade-the-mernda-community-hospital</link>
+<description>A re-elected Carroll Labor Government will expand the Mernda Community Hospital.</description>
+<guid isPermaLink="false">24700c24c58945c32fd2452f1793d3ee531c1b42</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -306,6 +320,13 @@
 <description>A re-elected Carroll Labor Government will invest $4 million to deliver stage 2 of the Spotswood Primary School masterplan.</description>
 <guid isPermaLink="false">c491646cc896c6b245564a422e68323c29017ff2</guid>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Delivering a Better Cockatoo Primary School</title>
+<link>https://www.viclabor.org.au/news/delivering-a-better-cockatoo-primary-school</link>
+<description>A re-elected Carroll Labor Government will invest $14.37 million to support upgrades at Cockatoo Primary School.</description>
+<guid isPermaLink="false">80b4f40e0600e5eacb8df5bdc1c3e3bfcd850d24</guid>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Supporting the Ivanhoe Sporting Precinct</title>
@@ -591,7 +612,7 @@
 <link>https://www.viclabor.org.au/news/only-labor-will-kickstart-upfield-line-duplication</link>
 <description>A re-elected Carroll Labor Government will unlock 50 per cent more train services on the Upfield Line – while saving Victorians money and reducing disruption for locals.</description>
 <guid isPermaLink="false">17a465a29e34c1b90ae037e9edcd469566b85be2</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
