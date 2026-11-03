@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Tue, 03 Nov 2026 16:55:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:04:50 +0000</lastBuildDate>
 <item>
 <title>Labor Will Deliver 20 New Dental Clinics</title>
 <link>https://www.viclabor.org.au/news/labor-will-deliver-20-new-dental-clinics</link>
@@ -19,6 +19,20 @@
 <description>A re-elected Carroll Labor Government will deliver a comprehensive plan to improve the quality of our roads.</description>
 <guid isPermaLink="false">ff621885b2b772d5944aef84d6aa1aed6bdfc049</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor Will Protect Victoria's Farms</title>
+<link>https://www.viclabor.org.au/news/labor-will-protect-victorias-farms</link>
+<description>A re-elected Carroll Labor Government will establish a Victorian Land Use Commissioner to better protect productive farmland and give farmers more of a voice in decisions affecting their land.</description>
+<guid isPermaLink="false">3335ba9f33fd7a1a651ec1feed0e92e759c9fb91</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor Will Create 5,000 New Manufacturing Jobs</title>
+<link>https://www.viclabor.org.au/news/labor-will-create-5-000-new-manufacturing-jobs</link>
+<description>A re-elected Carroll Labor Government will create 5,000 new manufacturing jobs across Victoria with a new Make It Here Fund.</description>
+<guid isPermaLink="false">80c49c70266dd9a6a8fb4abe7dae54bb52079131</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Labor Will Expand Weekend Emergency Dental Care</title>
@@ -697,20 +711,6 @@
 <description>A re-elected Carroll Labor Government will upgrade Somerton Road so locals in Greenvale, Meadow Heights and Roxburgh Park can get around faster.</description>
 <guid isPermaLink="false">69c79b10cf90168617193316db73c5e48859b350</guid>
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Better, Safer Local Roads for the Western Suburbs</title>
-<link>https://www.viclabor.org.au/news/better-safer-local-roads-for-the-western-suburbs</link>
-<description>A re-elected Carroll Labor Government will upgrade local roads across the western suburbs.</description>
-<guid isPermaLink="false">beb4264ce4e898054be2b13719763ee0bec12b32</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>A Better, Safer Findon Road for Locals in Epping</title>
-<link>https://www.viclabor.org.au/news/a-better-safer-findon-road-for-locals-in-epping</link>
-<description>A re-elected Carroll Labor Government will upgrade Findon Rd to cut congestion and improve safety for locals.</description>
-<guid isPermaLink="false">bba9887bbac12f04eabaac6a01f97a2b4bbf9881</guid>
-<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
