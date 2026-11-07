@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Fri, 06 Nov 2026 20:46:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 00:47:14 +0000</lastBuildDate>
 <item>
 <title>Labor Will Deliver 20 New Dental Clinics</title>
 <link>https://www.viclabor.org.au/news/labor-will-deliver-20-new-dental-clinics</link>
@@ -19,6 +19,20 @@
 <description>A re-elected Carroll Labor Government will deliver a comprehensive plan to improve the quality of our roads.</description>
 <guid isPermaLink="false">ff621885b2b772d5944aef84d6aa1aed6bdfc049</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Buses Every 10 Minutes in the West Under Labor</title>
+<link>https://www.viclabor.org.au/news/buses-every-10-minutes-in-the-west-under-labor</link>
+<description>A re-elected Carroll Labor Government will invest $400 million to deliver turn-up-and-go buses across Melbourne's west.</description>
+<guid isPermaLink="false">aa258169fd8cdd1a2041cb9643ee1b7a8dd989d3</guid>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor Will Double Carparks At West Tarneit Station</title>
+<link>https://www.viclabor.org.au/news/labor-will-double-carparks-at-west-tarneit-station</link>
+<description>A re-elected Carroll Labor Government will invest $25 million to deliver new car parking and improved access on the north side of West Tarneit Station.</description>
+<guid isPermaLink="false">6b68766ef15b716ffbd2d395cd7f6ff9a6c72be3</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Only Labor Will Make Our Trains, Trams And Buses Here</title>
@@ -698,20 +712,6 @@
 <description>A re-elected Carroll Labor Government will protect local live music.</description>
 <guid isPermaLink="false">6091e6ced27abc9f6c31c843d5f1a83a0495829b</guid>
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>More Bands on the Road, More Crowds in the Town</title>
-<link>https://www.viclabor.org.au/news/more-bands-on-the-road-more-crowds-in-the-town</link>
-<description>A re-elected Carroll Labor Government will boost regional breweries, protect regional festivals and back regional live music.</description>
-<guid isPermaLink="false">ae3e0f8dd1893e9169027e8e2d60d0fb135325cc</guid>
-<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Toughest Penalties Ever for Rapists and Sex Offenders</title>
-<link>https://www.viclabor.org.au/news/toughest-penalties-ever-for-rapists-and-sex-offenders</link>
-<description>The justice system must deliver real justice in sexual violence cases – with no excuses or legal loopholes. Victoria’s laws lead the nation under Labor, but there’s more to do.</description>
-<guid isPermaLink="false">9cfac576c7ebb3fceccf8b286d042009df274109</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
