@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Wed, 11 Nov 2026 13:54:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 21:48:57 +0000</lastBuildDate>
 <item>
 <title>Labor Will Deliver 20 New Dental Clinics</title>
 <link>https://www.viclabor.org.au/news/labor-will-deliver-20-new-dental-clinics</link>
@@ -19,6 +19,20 @@
 <description>A re-elected Carroll Labor Government will deliver a comprehensive plan to improve the quality of our roads.</description>
 <guid isPermaLink="false">ff621885b2b772d5944aef84d6aa1aed6bdfc049</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>It Doesn’t Add Up And She’ll Have To Cut Health</title>
+<link>https://www.viclabor.org.au/news/it-doesnt-add-up-and-shell-have-to-cut-health</link>
+<description>Jess Wilson promises a cash surplus by 2032, which requires $40 billion in savings.</description>
+<guid isPermaLink="false">d65c69e72bd9dda79b1dafa4f87516257c337925</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>More V/Line Services For Our Outer Suburbs And Regions</title>
+<link>https://www.viclabor.org.au/news/more-v-line-services-for-our-outer-suburbs-and-regions</link>
+<description>A re-elected Carroll Labor Government will increase V/Line services by 24 per cent.</description>
+<guid isPermaLink="false">ba62dcbb1b4f91ab089795a4e1d841495adf5c4d</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Honouring Every Generation of Veterans at the Shrine</title>
@@ -698,20 +712,6 @@
 <description>A re-elected Carroll Labor Government will invest $1.85 million to redevelop the pavilion at the Alphington Bowls Club.</description>
 <guid isPermaLink="false">30625d9d1c268a9eace6dd707b1a6836db5d8a7c</guid>
 <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Delivering Safer Roads for Our Community</title>
-<link>https://www.viclabor.org.au/news/delivering-safer-roads-for-our-community</link>
-<description>A re-elected Carroll Labor Government will invest $1 million to kickstart an upgrade at intersection of Keilor Road and Hoffmans Road, and along Keilor Park Drive.</description>
-<guid isPermaLink="false">20229c9023104e25b8caab1f362cfe3472e46093</guid>
-<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Delivering New Courts for Essendon Fields</title>
-<link>https://www.viclabor.org.au/news/delivering-new-courts-for-essendon-fields</link>
-<description>A re-elected Carroll Labor Government will invest $15 million to deliver new basketball and netball courts at Essendon Fields.</description>
-<guid isPermaLink="false">a0d1406437e2cc773108f7d4e04d2a63467e2739</guid>
-<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
