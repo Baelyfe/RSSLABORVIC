@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Wed, 11 Nov 2026 21:48:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 06:45:44 +0000</lastBuildDate>
 <item>
 <title>Labor Will Deliver 20 New Dental Clinics</title>
 <link>https://www.viclabor.org.au/news/labor-will-deliver-20-new-dental-clinics</link>
@@ -25,6 +25,20 @@
 <link>https://www.viclabor.org.au/news/it-doesnt-add-up-and-shell-have-to-cut-health</link>
 <description>Jess Wilson promises a cash surplus by 2032, which requires $40 billion in savings.</description>
 <guid isPermaLink="false">d65c69e72bd9dda79b1dafa4f87516257c337925</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor Will Deliver Supported Housing For Victorians Living With Mental Illness</title>
+<link>https://www.viclabor.org.au/news/labor-will-deliver-supported-housing-for-victorians-living-with-mental-illness</link>
+<description>A re-elected Carroll Labor Government will invest $15.8 million to deliver supported housing for adults living with mental illness.</description>
+<guid isPermaLink="false">30f4a05d505d792fd2b371e6fd65a74e67e854b6</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>More Mental Health Care In Ballarat And Ararat</title>
+<link>https://www.viclabor.org.au/news/more-mental-health-care-in-ballarat-and-ararat</link>
+<description>A re-elected Carroll Labor Government will invest $19.5 million to deliver a new Local in Wendouree and Ararat.</description>
+<guid isPermaLink="false">4f86e7b88bd6a4c4520d2b4e8382f8ac7f9059c2</guid>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
@@ -698,20 +712,6 @@
 <description>A re-elected Carroll Labor Government will cut land tax.</description>
 <guid isPermaLink="false">3dac57c6ca65f02f72d9d8bffee227bdf7b4ecad</guid>
 <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Delivering a New Ambulance Station for Smythesdale</title>
-<link>https://www.viclabor.org.au/news/delivering-a-new-ambulance-station-for-smythesdale</link>
-<description>A re-elected Carroll Labor Government will invest $7.1 million to deliver a new ambulance branch in Smythesdale.</description>
-<guid isPermaLink="false">b4d817f3b8583e23c1bc8346ebafc511c87a3a7b</guid>
-<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Delivering a Better Alphington Bowls Club</title>
-<link>https://www.viclabor.org.au/news/delivering-a-better-alphington-bowls-club</link>
-<description>A re-elected Carroll Labor Government will invest $1.85 million to redevelop the pavilion at the Alphington Bowls Club.</description>
-<guid isPermaLink="false">30625d9d1c268a9eace6dd707b1a6836db5d8a7c</guid>
-<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
