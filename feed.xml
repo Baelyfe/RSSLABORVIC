@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Sun, 15 Nov 2026 00:55:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 10:36:14 +0000</lastBuildDate>
 <item>
 <title>Labor Will Deliver 20 New Dental Clinics</title>
 <link>https://www.viclabor.org.au/news/labor-will-deliver-20-new-dental-clinics</link>
@@ -19,6 +19,13 @@
 <description>A re-elected Carroll Labor Government will deliver a comprehensive plan to improve the quality of our roads.</description>
 <guid isPermaLink="false">ff621885b2b772d5944aef84d6aa1aed6bdfc049</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>100,000 More Public Surgeries - In Public Hospitals</title>
+<link>https://www.viclabor.org.au/news/100-000-more-public-surgeries-in-public-hospitals</link>
+<description>A re-elected Carroll Labor Government will slash waitlists for planned surgeries in half. And we won’t do it by robbing public hospitals to pay private hospitals.</description>
+<guid isPermaLink="false">4698397f112f1383225ce9b459a47d7e6d3bc471</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Labor Will Upgrade Hundreds of Local Schools</title>
@@ -705,13 +712,6 @@
 <description>A re-elected Carroll Labor Government will invest $900,000 to support Wildlife Victoria’s travelling vet response service, based in Nunawading.</description>
 <guid isPermaLink="false">145f5de4cb7a13e822bdb86eb245e3f13821ae8e</guid>
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Planning for a Better Edithvale Primary School</title>
-<link>https://www.viclabor.org.au/news/planning-for-a-better-edithvale-primary-school</link>
-<description>A re-elected Carroll Labor Government will deliver $500,000 to kickstart planning for future upgrades at Edithvale Primary School.</description>
-<guid isPermaLink="false">0f329b51c3fba5ec39020b9e337ed7f2ea39fb24</guid>
-<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
