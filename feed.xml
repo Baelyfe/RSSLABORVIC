@@ -5,7 +5,7 @@
 <link>https://www.viclabor.org.au/news</link>
 <description>Unofficial feed generated from the Victorian Labor news page.</description>
 <language>en-au</language>
-<lastBuildDate>Mon, 23 Nov 2026 01:28:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 12:04:06 +0000</lastBuildDate>
 <item>
 <title>Labor Will Deliver 20 New Dental Clinics</title>
 <link>https://www.viclabor.org.au/news/labor-will-deliver-20-new-dental-clinics</link>
@@ -19,6 +19,13 @@
 <description>A re-elected Carroll Labor Government will deliver a comprehensive plan to improve the quality of our roads.</description>
 <guid isPermaLink="false">ff621885b2b772d5944aef84d6aa1aed6bdfc049</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor Backs Victoria's Christian Communities</title>
+<link>https://www.viclabor.org.au/news/labor-backs-victorias-christian-communities</link>
+<description>A re-elected Carroll Labor Government will invest in Christian schools, churches and community spaces across Victoria.</description>
+<guid isPermaLink="false">4699c66f6fe02f8b880f17e9dcc2ab94c128f036</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Making MND a Notifiable Disease - To Help Find a Cure</title>
@@ -61,6 +68,13 @@
 <description>A re-elected Carroll Labor Government will back the Pat Cronin Foundation with a $450,000 investment to help stop violence before it starts.</description>
 <guid isPermaLink="false">9b57e400b32309f582c35287688168829c0634e0</guid>
 <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Labor Will Deliver Victoria's First Hindu School</title>
+<link>https://www.viclabor.org.au/news/labor-will-deliver-victorias-first-hindu-school</link>
+<description>A re-elected Carroll Labor Government will help deliver Victoria’s first Hindu school.</description>
+<guid isPermaLink="false">3a0e99df841bf96f4b79ef0e346c4d083af0f00b</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Wilson Puts the Squeeze on Wyndham</title>
@@ -697,20 +711,6 @@
 <description>A re-elected Carroll Labor Government will open a free Public Dental Clinic in Bendigo.</description>
 <guid isPermaLink="false">f4fbdb5278cea70b6d04d62fed9ac091e303ed4f</guid>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Labor Will Keep Health Workers Safe At Work</title>
-<link>https://www.viclabor.org.au/news/labor-will-keep-health-workers-safe-at-work</link>
-<description>A re-elected Carroll Labor Government will crack down on violent offenders and deliver $30 million for lighting, CCTV and other practical ways to make hospitals safer places to work.</description>
-<guid isPermaLink="false">7092c68af34fef5a37b3f29f645a391390ec74a7</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Delivering Upgrades at Westmeadows War Memorial</title>
-<link>https://www.viclabor.org.au/news/delivering-upgrades-at-westmeadows-war-memorial</link>
-<description>A re-elected Carroll Labor Government will invest $200,000 to deliver paving, seating, planting and lighting upgrades at the Westmeadows War Memorial.</description>
-<guid isPermaLink="false">2800ac316d3fa9a0df8744e8af4db43693969a20</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
